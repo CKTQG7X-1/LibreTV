@@ -1,0 +1,40 @@
+{
+  "name": "LibreTV-SourceList",
+  "version": 2,
+  "sources": [
+    {
+      "name": "量子资源",
+      "url": "https://cj.lziapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "非凡资源",
+      "url": "https://cj.ffzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "暴风资源",
+      "url": "https://bfzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "红牛资源",
+      "url": "https://hongniuzy2.com/api.php/provide/vod"
+    },
+    {
+      "name": "极速资源",
+      "url": "https://jszyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "360资源",
+      "url": "https://360zy.com/api.php/provide/vod"
+    }
+  ],
+  "liveSources": [
+    {
+      "name": "IPTV-Org 中国频道",
+      "url": "https://iptv-org.github.io/iptv/countries/cn.m3u"
+    },
+    {
+      "name": "IPTV-Org 全球频道",
+      "url": "https://iptv-org.github.io/iptv/index.m3u"
+    }
+  ]
+}
